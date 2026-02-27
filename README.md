@@ -1,4 +1,4 @@
-# aplicacaodecompras
+# Aplicação de Compras
 
 Aplicação de Compras em Java
 📖 Sobre o projeto
